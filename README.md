@@ -66,7 +66,7 @@ This will launch the frontend on Vite’s default port (5173).
 
 ---
 
-## 🐳 Docker Deployment 
+## 🐳 Docker Deployment (For TA Testing & Cloud Readiness)
 
 The backend service is containerized and published to Docker Hub for easy deployment and testing.
 
